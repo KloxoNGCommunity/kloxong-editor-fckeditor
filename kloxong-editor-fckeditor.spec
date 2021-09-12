@@ -47,16 +47,16 @@ desktop editing applications like Microsoft Word and OpenOffice.
 %{kloxo}/%{packagename}
 
 %changelog
-* Wed Jun 20 2014 Mustafa Ramadhan <mustafa@bigraf.com> - 2.6.8-7.mr
+* Fri Jun 20 2014 Mustafa Ramadhan <mustafa@bigraf.com> - 2.6.8-7.mr
 - move to editor dir
 
 * Thu Jun 19 2014 Mustafa Ramadhan <mustafa@bigraf.com> - 2.6.8-6.mr
 - no obsoletes for fckeditor
 
-* Tue Sep 23 2013 Mustafa Ramadhan <mustafa@bigraf.com> - 2.6.8-5.mr
+* Mon Sep 23 2013 Mustafa Ramadhan <mustafa@bigraf.com> - 2.6.8-5.mr
 - fix obsolote entry
 
-* Tue Sep 23 2013 Mustafa Ramadhan <mustafa@bigraf.com> - 2.6.8-4.mr
+* Mon Sep 23 2013 Mustafa Ramadhan <mustafa@bigraf.com> - 2.6.8-4.mr
 - change conflict with obsolete
 
 * Sun Feb 17 2013 Mustafa Ramadhan <mustafa@bigraf.com> - 2.6.8-3.mr
